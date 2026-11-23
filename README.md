@@ -27,7 +27,9 @@ Once you can follow the seminar talks, work through the seminal papers on the ar
 • "All Loop Scattering for All Multiplicity" (arXiv:2311.09284). Expands the combinatorial rules to handle arbitrary numbers of colliding particles.
 • Follow-up papers on "Hidden Zeros" and "Splits." Look into works by Arkani-Hamed, Figueiredo, and collaborators showing how this geometry extends to real-world particles like pions and gluons. [1] (https://www.youtube.com/watch?v=qhp0gPrychI&t=15), [2] (https://ncatlab.org/nlab/show/surfaceology), [3] (https://www.giuliosalvatori.com/surfaceology.html)
 To help tailor your next step, which area would you like to explore further?
-• Prerequisites breakdown: A deeper look into the math (like associahedra and tropical geometry) or QFT concepts needed first.
+
+• [Prerequisites](prerequisites.md) breakdown: A deeper look into the math (like associahedra and tropical geometry) or QFT concepts needed first.
+
 • Core mechanics: How "U-variables" and curve integrals actually replace Feynman diagrams in a simple calculation.
 • Physics implications: How surfaceology connects different particle theories through "hidden zeros."
 
