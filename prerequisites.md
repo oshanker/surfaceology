@@ -25,6 +25,8 @@ https://www.cambridge.org/core/books/scattering-amplitudes-in-gauge-theory-and-g
 
 https://arxiv.org/abs/1308.1697 
 
+https://janos.cs.technion.ac.il/COURSES/238900-13/Tropical/MaclaganSturmfels.pdf 
+
 3. Topology & Cluster Algebras
 
 To handle loop-level physics, surfaceology moves from simple polygons to punctured surfaces with handles:
