@@ -15,7 +15,11 @@ Because the book covers a wide range of topics—including supersymmetry and sup
 
 3. How to Use the Book
 
-• Assumed background: The book assumes you already know basic Feynman rules for scalar field theory and QED (e.g., from Peskin & Schroeder or Schwartz).
+• Assumed background: The book assumes you already know basic Feynman rules for scalar field theory and QED
+
+(e.g., from Peskin & Schroeder or Schwartz). https://www.physicsbook.ir/book/An%20Introduction%20To%20Quantum%20Field%20Theory%20-%20M.%20Peskin,%20D.%20Schroeder%20(Perseus,%201995).pdf 
+
+
 • Exercises: Work through the color-ordering and factorization exercises in Chapters 2 and 3; the authors include over 150 exercises designed to build calculation fluency. [1] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6563553155293207338,catalogid:1329334096140910865,gpcid:9976077477018750463,mid:576461515469202265&ibp=oshop)
 Would you like to:
 Walk through Chapter 2's color ordering with a quick example of how a Tr(φ³) amplitude breaks 
