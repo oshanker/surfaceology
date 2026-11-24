@@ -7,7 +7,7 @@ You do not need deep expertise in the Standard Model or condensed matter QFT. In
 • Scalar \(\text{Tr}(\phi^3)\) Theory: Learn how colored (matrix-valued) scalar particles interact via cubic vertices and how large-\(N\) color ordering organizes Feynman diagrams into planar and non-planar topologies.
 • Kinematics & Mandelstam Variables: Get comfortable expressing scattering amplitudes purely in terms of Lorentz-invariant dot products of external momenta (\(p_i \cdot p_j\)) and planar variables (\(X_{i,j}\)).
 • Tree vs. Loop Integrands: Understand the difference between a tree-level amplitude (rational functions of momenta) and a loop-level integrand (before performing the actual spacetime loop integration).
-• Where to learn: Scattering Amplitudes in Gauge Theory and Gravity by Henriette Elvang and Yu-tin Huang (specifically the introductory chapters on color ordering and kinematics).
+• Where to learn: Scattering Amplitudes in Gauge Theory and Gravity by Henriette Elvang and Yu-tin Huang  PDF on arXiv https://arxiv.org/abs/1308.1697 (specifically the introductory chapters on color ordering and kinematics). http://www.physics.ucsb.edu/∼mark/qft.html 
 
 2. Combinatorics & Positive Geometry
 
