@@ -40,6 +40,8 @@ https://arxiv.org/abs/math/0608367
 
 Summary Study Order
 
+ an introduction to the theory of algebraic varieties emphasizing the
+similarities to the theory of manifolds. https://www.jmilne.org/math/CourseNotes/AG.pdf 
 
 Priority	Subject	Core Concept to Master
 
