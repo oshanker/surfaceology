@@ -19,6 +19,9 @@ https://davidtong.org/teaching/quantum-field-theory/
 https://davidtong.org/pdfs/teaching/quantum-field-theory/qft.pdf 
 	
 • Alternative Book: Tom Lancaster & Stephen Blundell’s Quantum Field Theory for the Gifted Amateur (specifically written for self-learners; read Chapters 1–18).
+
+https://dn721505.ca.archive.org/0/items/quantum-field-theory-for-the-gifted-amateur-blundell/Quantum-Field-Theory-For-The-Gifted-Amateur%20-%20Blundell.pdf
+
 • Matrix/Color Ordering: Learn how \(N \times N\) matrix fields turn Feynman diagrams into ribbon graphs (double-line notation) that live naturally on 2D surfaces.
 	• Resource: Anthony Zee’s Quantum Field Theory in a Nutshell (Chapter VII.4 on the Large \(N\) Expansion).
 
