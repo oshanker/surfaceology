@@ -4,7 +4,15 @@ Phase 1: Math & Relativity Foundations
 
 Before touching field theory, make sure you can manipulate four-vectors and basic topology fluently:
 • Special Relativity & Four-Vectors: Master index notation (\(p^{\mu }p_{\mu }\)), metric signatures, and Mandelstam invariants (\(s, t, u\)).
-	• Resource: David Tong’s Dynamics and Relativity lecture notes (available free online; read the final chapter on Special Relativity).
+	
+• Resource: David Tong’s Dynamics and Relativity lecture notes (available free online; read the final chapter on Special Relativity).
+
+https://davidtong.org/pdfs/teaching/general-relativity/gr.pdf 
+
+https://davidtong.org/teaching/dynamics-and-relativity/
+
+https://davidtong.org/pdfs/teaching/dynamics-and-relativity/dynrel.pdf 
+
 • Elementary Topology & Graphs: Learn Euler’s polyhedron formula (\(V - E + F = 2 - 2g\)), dual graphs, and how triangulations of polygons relate to planar trees.
 	• Resource: 3Blue1Brown’s videos on Euler's formula or introductory chapters of Stillwell’s Classical Topology and Combinatorial Group Theory.
 
