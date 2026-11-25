@@ -31,7 +31,11 @@ https://people.stat.ucla.edu/ywu/Zee.pdf
 Phase 3: Bridge to On-Shell Amplitudes & Polytopes
 
 Once you can compute a 4-particle scalar scattering amplitude by hand, transition directly into modern geometric methods:
-• Video Lectures (Best for Self-Study): Watch Johannes Henn’s or Henriette Elvang’s TASI lectures on Scattering Amplitudes on YouTube alongside the Elvang & Huang textbook to see calculations worked out line-by-line.
+• Video Lectures (Best for Self-Study): Watch Johannes Henn’s or Henriette Elvang’s TASI lectures on Scattering Amplitudes on YouTube alongside the Elvang & Huang textbook 
+
+https://www.cambridge.org/core/books/scattering-amplitudes-in-gauge-theory-and-gravity/34C045B8331E6FF229E2496F6D8321C5 
+
+to see calculations worked out line-by-line.
 • Hands-On Practice: Draw a pentagon, find all 5 of its triangulations, and match each triangulation to a 5-particle tree-level Feynman diagram—this single exercise bridges Phase 2 directly into surfaceology.
 
 Self-Study Roadmap Summary
