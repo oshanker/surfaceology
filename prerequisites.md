@@ -11,7 +11,7 @@ You do not need deep expertise in the Standard Model or condensed matter QFT. In
 
 • Tree vs. Loop Integrands: Understand the difference between a tree-level amplitude (rational functions of momenta) and a loop-level integrand (before performing the actual spacetime loop integration).
 
-• Where to learn: Scattering Amplitudes in Gauge Theory and Gravity by Henriette Elvang and Yu-tin Huang  PDF on arXiv https://arxiv.org/abs/1308.1697 (specifically the introductory chapters on color ordering and kinematics). See also [](Scattering.md)
+• Where to learn: Scattering Amplitudes in Gauge Theory and Gravity by Henriette Elvang and Yu-tin Huang  PDF on arXiv https://arxiv.org/abs/1308.1697 (specifically the introductory chapters on color ordering and kinematics). See also [more QFT](Scattering.md)
 
 2. Combinatorics & Positive Geometry
 
