@@ -35,6 +35,8 @@ Once you can compute a 4-particle scalar scattering amplitude by hand, transitio
 
 https://www.cambridge.org/core/books/scattering-amplitudes-in-gauge-theory-and-gravity/34C045B8331E6FF229E2496F6D8321C5 
 
+https://arxiv.org/abs/1308.1697
+
 to see calculations worked out line-by-line.
 • Hands-On Practice: Draw a pentagon, find all 5 of its triangulations, and match each triangulation to a 5-particle tree-level Feynman diagram—this single exercise bridges Phase 2 directly into surfaceology.
 
