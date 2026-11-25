@@ -24,7 +24,7 @@ https://www.physicsbook.ir/book/An%20Introduction%20To%20Quantum%20Field%20Theor
 http://www.physics.ucsb.edu/~mark/qft.html https://www.physics.ucsb.edu/~mark/ 
 
 Srednicki https://www.physics.ucsb.edu/~mark/ms-qft-DRAFT.pdf 
-
+https://www.cambridge.org/highereducation/api/resources/22405C28BFCAB2828F3AA6146CA50B06 solutions
 
 • Exercises: Work through the color-ordering and factorization exercises in Chapters 2 and 3; the authors include over 150 exercises designed to build calculation fluency. [1] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6563553155293207338,catalogid:1329334096140910865,gpcid:9976077477018750463,mid:576461515469202265&ibp=oshop)
 Would you like to:
