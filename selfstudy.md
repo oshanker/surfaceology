@@ -23,7 +23,10 @@ https://davidtong.org/pdfs/teaching/quantum-field-theory/qft.pdf
 https://dn721505.ca.archive.org/0/items/quantum-field-theory-for-the-gifted-amateur-blundell/Quantum-Field-Theory-For-The-Gifted-Amateur%20-%20Blundell.pdf
 
 • Matrix/Color Ordering: Learn how \(N \times N\) matrix fields turn Feynman diagrams into ribbon graphs (double-line notation) that live naturally on 2D surfaces.
-	• Resource: Anthony Zee’s Quantum Field Theory in a Nutshell (Chapter VII.4 on the Large \(N\) Expansion).
+
+• Resource: Anthony Zee’s Quantum Field Theory in a Nutshell (Chapter VII.4 on the Large \(N\) Expansion).
+
+https://people.stat.ucla.edu/ywu/Zee.pdf 
 
 Phase 3: Bridge to On-Shell Amplitudes & Polytopes
 
