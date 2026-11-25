@@ -13,7 +13,12 @@ Phase 2: Minimalist Quantum Field Theory
 Skip heavy textbooks like Peskin & Schroeder at first. You only need to know how to write down a scalar amplitude from a Feynman diagram:
 • Scalar \(\phi ^{3}\) Feynman Rules: Learn how propagators (\(1/p^2\)) and cubic vertices work in momentum space without spinor indices or gauge fixing.
 	• Resource: David Tong’s Quantum Field Theory lecture notes (free online; read Chapters 1–3, stopping right after scalar Feynman diagrams).
-	• Alternative Book: Tom Lancaster & Stephen Blundell’s Quantum Field Theory for the Gifted Amateur (specifically written for self-learners; read Chapters 1–18).
+
+https://davidtong.org/teaching/quantum-field-theory/
+
+https://davidtong.org/pdfs/teaching/quantum-field-theory/qft.pdf 
+	
+• Alternative Book: Tom Lancaster & Stephen Blundell’s Quantum Field Theory for the Gifted Amateur (specifically written for self-learners; read Chapters 1–18).
 • Matrix/Color Ordering: Learn how \(N \times N\) matrix fields turn Feynman diagrams into ribbon graphs (double-line notation) that live naturally on 2D surfaces.
 	• Resource: Anthony Zee’s Quantum Field Theory in a Nutshell (Chapter VII.4 on the Large \(N\) Expansion).
 
