@@ -42,4 +42,8 @@ https://arxiv.org/abs/physics/0308083
 
 
 3. P. J. Mohr, G. Plunien, and G. Soff, "QED corrections in heavy atoms", Physics Reports 293, 227–369 (1998) (Contains explicit formulas and numerical tables for Uehling and Wichmann–Kroll potentials to test your code).
+
+[Vacuum polarization and self-energy corrections](https://arxiv.org/html/1511.01459v2)
+
+[QED radiative corrections to electric dipole amplitudes in heavy atoms](https://arxiv.org/html/2212.11490v1)
 Would you like me to write out the exact coupled radial Dirac equations and Dual Kinetic Balance matrix setup so you can start coding Phase 1, or would you prefer to see the Minkowski-space Bethe–Salpeter option broken down in the same 1-year Java structure?
