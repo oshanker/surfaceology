@@ -28,7 +28,14 @@ Phase 3: Original Parameter Exploration & Thesis Writing (Months 8–12)
 
 Key Starting References (Self-Contained)
 
-1. W. Greiner, B. Müller, and J. Rafelski, Quantum Electrodynamics of Strong Fields (Chapters 4–7 give the exact radial equations and critical charge benchmarks).
+1. W. Greiner, B. Müller, and J. Rafelski, 
+Quantum Electrodynamics of Strong Fields 
+
+https://www.nat.vu.nl/~wimu/Varying-Constants-Papers/Reinhardt-Greiner-1977.pdf Review
+
+
+
+(Chapters 4–7 give the exact radial equations and critical charge benchmarks).
 2. V. M. Shabaev et al., "Dual kinetic balance approach to basis-set expansions for the Dirac equation", Phys. Rev. Lett. 93, 130405 (2004) (The standard, clean matrix method for solving the radial Dirac equation without spurious eigenvalues).
 3. P. J. Mohr, G. Plunien, and G. Soff, "QED corrections in heavy atoms", Physics Reports 293, 227–369 (1998) (Contains explicit formulas and numerical tables for Uehling and Wichmann–Kroll potentials to test your code).
 Would you like me to write out the exact coupled radial Dirac equations and Dual Kinetic Balance matrix setup so you can start coding Phase 1, or would you prefer to see the Minkowski-space Bethe–Salpeter option broken down in the same 1-year Java structure?
