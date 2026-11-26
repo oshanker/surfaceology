@@ -1,0 +1,34 @@
+With Java, a 1-year timeline, and no dedicated advisor, the Strong-Field QED Bound States & Vacuum Polarization (Option 3) or Minkowski-Space Bethe–Salpeter Equation (Option 2) are far better fits than Basis Light-Front Quantization (BLFQ). BLFQ typically relies on specialized C++/Fortran libraries and advisor-specific renormalization prescriptions, whereas Option 2 and Option 3 rely on self-contained numerical linear algebra and differential equations that you can implement cleanly from textbook and published equations in Java.
+Given your constraints, Option 3 (Strong-Field QED Bound States at Supercritical Zα → 1) is the safest and most rewarding standalone project. It has exact analytical benchmarks at every intermediate step, so you can verify your code independently without needing a specialist advisor.
+
+Recommended Thesis Outline: Supercritical Bound States and Vacuum Polarization in Strong-Field QED
+
+Core Research Question:
+How do finite nuclear size, nuclear charge distribution models, and non-perturbative one-loop vacuum polarization (Uehling and Wichmann–Kroll terms) shift the critical nuclear charge \(Z_{\text{cr}}\) where the \(1s_{1/2}\) electron bound state dives into the negative-energy Dirac continuum?
+
+Phase 1: Single-Particle Radial Dirac Solver (Months 1–3)
+
+• Physics Goal: Solve the radial Dirac equation for an electron in a central nuclear potential V(r) for both point-like (Zα < 1) and finite-size nuclei (Zα ≥ 1).
+• Numerical Method: Discretize the coupled first-order radial Dirac equations using B-spline basis functions (the Dual Kinetic Balance / DKB method avoids spurious states) or a fourth-order Runge–Kutta shooting method.
+• Java Implementation: Use a standard linear algebra library like EJML (Efficient Java Matrix Library) or Apache Commons Math to solve the generalized matrix eigenvalue problem Hψ = Eψ.
+• Self-Verification Benchmark: Match your point-nucleus eigenvalues against the exact Sommerfeld fine-structure formula and reproduce Greiner’s classic critical charge value (\(Z_{\text{cr}} \approx 173\)) for a uniformly charged spherical nucleus.
+
+Phase 2: Perturbative & Exact Vacuum Polarization (Months 4–7)
+
+• Physics Goal: Compute the one-loop QED vacuum polarization potential \(V_{\text{VP}}(r)\), separating the linear Uehling term from the higher-order nonlinear Wichmann–Kroll term.
+• Numerical Method: Implement numerical quadrature (Gauss–Legendre quadrature in Java) for the Uehling integral, then construct the radial Dirac Green's function from your Phase 1 B-spline basis to evaluate the exact all-orders Wichmann–Kroll charge density via partial-wave summation.
+• Self-Verification Benchmark: Check that your Wichmann–Kroll results reproduce known values for heavy hydrogen-like ions (such as U⁹¹⁺ at Z=92) before pushing into the supercritical regime (Z = 170–180).
+
+Phase 3: Original Parameter Exploration & Thesis Writing (Months 8–12)
+
+• Original Contribution: Once your solver is verified against benchmark ions, explore an open systematic question that does not require new QFT formalism:
+	• Nuclear deformation & skin thickness: Compare \(Z_{\text{cr}}\) and vacuum polarization energy shifts across realistic Fermi vs. deformed nuclear charge distributions.
+	• Supercritical resonance tracking: Track how the \(1s_{1/2}\) and \(2p_{1/2}\) states enter the continuum and compute the resonance width (spontaneous positron emission rate) using complex scaling or phase-shift analysis.
+• Deliverable: A clean, object-oriented Java simulation package accompanied by convergence studies (basis size, partial-wave cutoff \(\kappa _{\max }\)) and a complete master's thesis.
+
+Key Starting References (Self-Contained)
+
+1. W. Greiner, B. Müller, and J. Rafelski, Quantum Electrodynamics of Strong Fields (Chapters 4–7 give the exact radial equations and critical charge benchmarks).
+2. V. M. Shabaev et al., "Dual kinetic balance approach to basis-set expansions for the Dirac equation", Phys. Rev. Lett. 93, 130405 (2004) (The standard, clean matrix method for solving the radial Dirac equation without spurious eigenvalues).
+3. P. J. Mohr, G. Plunien, and G. Soff, "QED corrections in heavy atoms", Physics Reports 293, 227–369 (1998) (Contains explicit formulas and numerical tables for Uehling and Wichmann–Kroll potentials to test your code).
+Would you like me to write out the exact coupled radial Dirac equations and Dual Kinetic Balance matrix setup so you can start coding Phase 1, or would you prefer to see the Minkowski-space Bethe–Salpeter option broken down in the same 1-year Java structure?
